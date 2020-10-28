@@ -1,18 +1,19 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Welcome To Njinius',
+  tagline: 'where the great and curious \n minds of the',
+  //customFields.: 'mnn',
+  url: 'https://kubzie17.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/Njinius.svg',
+  organizationName: 'BarretoW', // Usually your GitHub org/user name.
+  projectName: 'Njinius', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      //title: 'Njinius',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/Njinius.svg',
       },
       items: [
         {
@@ -23,55 +24,70 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/kubzie17/njinius',
           label: 'GitHub',
           position: 'right',
         },
+        {to: 'about/', label: 'About', position: 'right'},
+        {to: 'video/', label: 'Video', position: 'right'},
+        {to: 'schedule/', label: 'Schedule', position: 'right'},
+        {to: 'vidtest/', label: 'vidtest', position: 'right'},
       ],
     },
+    
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'About',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
+              label: 'this is some information about Njinius club and general overveiw of the purpose of it ',
+              to:'/',
+            },   
           ],
         },
         {
-          title: 'Community',
+          title: 'Contact',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'this is \n the contact \n details ',
+              href: '/',
+              
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'of njinius',
+              href: '/',
             },
             {
-              label: 'Twitter',
+              label: 'club',
               href: 'https://twitter.com/docusaurus',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Follow Us',
           items: [
             {
+              logo: {
+                alt: 'My Site Logo',
+                src: 'img/favicon.ico',
+              },
               label: 'Blog',
+              
               to: 'blog',
+              position: 'right',
+              alt: 'my image',
+              src: 'img/github.svg',
             },
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
+              position: 'right',
+            },
+            {
+              label: 'Blog',
+              to: 'blog',
             },
           ],
         },

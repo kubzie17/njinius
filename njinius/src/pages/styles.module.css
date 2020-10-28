@@ -26,7 +26,7 @@
 
 .features {
   display: flex;
-  align-items: center;
+  align-items: right;
   padding: 2rem 0;
   width: 100%;
 }
@@ -34,4 +34,10 @@
 .featureImage {
   height: 200px;
   width: 200px;
+}
+
+.VidPlayer {
+  float: left;
+  border: 1px solid black;
+  margin: 5px 10px 10px 0px;
 }
