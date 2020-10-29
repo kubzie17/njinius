@@ -1,5 +1,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
+import Link from 'react-router-dom';
+
 
 function Hello() {
   return (
@@ -13,8 +15,14 @@ function Hello() {
           fontSize: '20px',
         }}>
         <p>
-          Edit <code>pages/schedule.js</code> and save to reload.
+          Edit <code>pages/tracks.js</code> and save to reload.{"\n"}
+
+
+          <Link to="about/">about</Link>
           
+          <a href={'business/'}>Business{"\n"}{"\n"}</a>
+          <a href={'software/'}>Software </a>
+          <a href={'book/'}>Book club</a>
         </p>
       </div>
     </Layout>

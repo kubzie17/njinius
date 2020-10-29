@@ -1,13 +1,16 @@
 module.exports = {
-  title: 'Welcome To Njinius',
-  tagline: 'where the great and curious \n minds of the',
-  //customFields.: 'mnn',
   url: 'https://kubzie17.github.io',
   baseUrl: '/',
+  projectName: 'Njinius', // Usually your repo name
+  organizationName: 'BarretoW', // Usually your GitHub org/user name..
+  title: 'Welcome To Njinius',
+  tagline: 'where the great and curious n minds of the',
+  //customFields.: 'mnn',
+
   onBrokenLinks: 'throw',
   favicon: 'img/Njinius.svg',
-  organizationName: 'BarretoW', // Usually your GitHub org/user name.
-  projectName: 'Njinius', // Usually your repo name.
+  
+ 
   themeConfig: {
     navbar: {
       //title: 'Njinius',
@@ -32,6 +35,10 @@ module.exports = {
         {to: 'video/', label: 'Video', position: 'right'},
         {to: 'schedule/', label: 'Schedule', position: 'right'},
         {to: 'vidtest/', label: 'vidtest', position: 'right'},
+        {to: 'challenges/', label: 'Challenges', position: 'right'},
+        {to: 'tracks/', label: 'Tracks', position: 'right'},
+        
+
       ],
     },
     
@@ -51,7 +58,7 @@ module.exports = {
           title: 'Contact',
           items: [
             {
-              label: 'this is \n the contact \n details ',
+              label: 'this is n the contact n details ',
               href: '/',
               
             },

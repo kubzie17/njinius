@@ -13,7 +13,7 @@ function Hello() {
           fontSize: '20px',
         }}>
         <p>
-          Edit <code>pages/schedule.js</code> and save to reload.
+          Edit <code>pages/book.js</code> and save to reload.
           
         </p>
       </div>

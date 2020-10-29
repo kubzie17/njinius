@@ -13,8 +13,8 @@ function Hello() {
           fontSize: '20px',
         }}>
         <p>
-          Edit <code>pages/schedule.js</code> and save to reload.
-          
+          Edit <code>pages/challenges.js</code> and save to reload.
+          <a href={'track/'}>hello</a>
         </p>
       </div>
     </Layout>
