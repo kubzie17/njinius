@@ -2,9 +2,9 @@ import React from 'react';
 import Layout from '@theme/Layout';
 import VideoPlayer from "react-video-js-player";
 import useBaseUrl from '@docusaurus/useBaseUrl';
-import Car from "C:/Development/Njinius/njinius/static/video/car.mp4"
-import Var from "C:/Development/Njinius/njinius/static/video/van.mp4"
-import bik from "C:/Development/Njinius/njinius/static/video/bike.mp4"
+import Car from "C:/Development/Njinius/njinius/static/video/car.mp4" 
+import Var from "C:/Development/Njinius/njinius/static/video/van.mp4" 
+import bik from "C:/Development/Njinius/njinius/static/video/bike.mp4" 
 
 
 const VideoJS = () => {
