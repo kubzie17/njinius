@@ -1,5 +1,5 @@
 import React from 'react';
-import Layout from '@theme/Layout';
+import Layout from '@theme/Layout'; 
 
 function Hello() {
   return (
@@ -13,7 +13,7 @@ function Hello() {
           fontSize: '20px',
         }}>
         <p>
-          Edit <code>pages/schedule.js</code> and save to reload.
+          Edit <code>pages/schedule.js</code> and save to reload it.
           
         </p>
       </div>
