@@ -1,5 +1,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
+import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 function Hello() {
   return (
@@ -14,7 +16,9 @@ function Hello() {
         }}>
         <p>
           Edit <code>pages/challenges.js</code> and save to reload.
-          <a href={'track/'}>hello</a>
+          <Link to={useBaseUrl("book/")}>
+              books         
+          </Link>
         </p>
       </div>
     </Layout>
