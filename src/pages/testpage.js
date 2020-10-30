@@ -6,13 +6,13 @@ import Cardies from './cards'
 
 function home() {
     return (
-        <>
+        <Layout title={'home'}>
         <HeroSection />
         <Cardies />
 
 
 
-        </>
+        </Layout>
     )
 }
 

@@ -1,51 +1,19 @@
-import React from 'react';
 import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
-import useBaseUrl from '@docusaurus/useBaseUrl'; 
+import React from 'react';
+import HeroSection from './heroSection'
+import Cardies from './cards'
 
 
-function Hello() {
-  return (
-    <Layout title="Hello">
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          height: '50vh',
-          fontSize: '20px',
-        }}>
-        <p>
-          Edit <code>pages/tracks.js</code> and save to reload.{"\n"}
-          <Link to={useBaseUrl('business/')}>
-              business   {"\n"}      
-          </Link>
-          
-        </p>
-        
-      </div>
-      <div  style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          height: '50vh',
-          fontSize: '20px',
-        }}>
-      <p>
-        <Link to={useBaseUrl('software/')}>
-              software         
-          </Link>
-          <Link to={useBaseUrl('book/')}>
-              book club         
-          </Link>
+function home() {
+    return (
+        <Layout title={'home'}>
+        <HeroSection />
+        <Cardies />
 
 
-        </p>
 
-
-      </div>
-    </Layout>
-  );
+        </Layout>
+    )
 }
 
-export default Hello;
+export default home;
