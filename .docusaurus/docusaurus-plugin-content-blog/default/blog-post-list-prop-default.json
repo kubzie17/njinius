@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "You Had Me at Hello World",
+      "permalink": "/blog/hello world"
+    },
+    {
+      "title": "Its A Brand New World",
+      "permalink": "/blog/its a brand new world"
+    },
+    {
+      "title": "New Boy in Town",
+      "permalink": "/blog/new boy in town"
+    }
+  ]
+}

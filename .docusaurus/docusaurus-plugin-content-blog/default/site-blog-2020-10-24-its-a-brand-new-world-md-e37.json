@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/its a brand new world",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2020-10-24-Its a brand new world.md",
+  "source": "@site/blog\\2020-10-24-Its a brand new world.md",
+  "description": "Having joined Glasswall in September, I have found it to be quite a relaxed environment, even with the pressure of the IQT November deadline. Before joining Glasswall, I was working in the railway industry as a Project Engineer for four and a half years, so goes without saying that I had no software experience although I have had exposure to a couple of the programming languages. I was quite nervous but excited during my first couple of weeks. It is one thing playing around in my spare time with Arduino and VS at home, but it's another working with software as a profession. I was introduced to TFS and using the branching strategy to create my branch safely and correctly.",
+  "date": "2020-10-24T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "title": "Its A Brand New World",
+  "readingTime": 4.54,
+  "truncated": true,
+  "prevItem": {
+    "title": "You Had Me at Hello World",
+    "permalink": "/blog/hello world"
+  },
+  "nextItem": {
+    "title": "New Boy in Town",
+    "permalink": "/blog/new boy in town"
+  }
+}

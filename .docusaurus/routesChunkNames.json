@@ -1,0 +1,168 @@
+{
+  "/-d7d": {
+    "component": "component---site-src-pages-index-jsece-a18",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-d12": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-4-c-9-f03"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/about-157": {
+    "component": "component---site-src-pages-about-js-9-a-4-ce1",
+    "config": "config---5-e-9-4f3"
+  },
+  "/blog-94d": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blogc-27-f73",
+    "items": [
+      {
+        "content": "content---blog-469-71d"
+      },
+      {
+        "content": "content---blogccb-196"
+      },
+      {
+        "content": "content---blogdab-ed8"
+      }
+    ],
+    "metadata": "metadata---blog-5-c-4-506"
+  },
+  "/blog/hello world-e74": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blogc-27-f73",
+    "content": "content---blog-hello-worlddc-8-7ce"
+  },
+  "/blog/its a brand new world-5f5": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blogc-27-f73",
+    "content": "content---blog-its-a-brand-new-worlde-37-c11"
+  },
+  "/blog/new boy in town-8fc": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blogc-27-f73",
+    "content": "content---blog-new-boy-in-town-230-df8"
+  },
+  "/blog/tags-819": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blogc-27-f73",
+    "tags": "tags---blog-tags-995-4d3"
+  },
+  "/blog/tags/docusaurus-999": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blogc-27-f73",
+    "items": [
+      {
+        "content": "content---blog-469-71d"
+      },
+      {
+        "content": "content---blogccb-196"
+      },
+      {
+        "content": "content---blogdab-ed8"
+      }
+    ],
+    "metadata": "metadata---blog-tags-docusaurus-198-378"
+  },
+  "/blog/tags/hola-0b6": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blogc-27-f73",
+    "items": [
+      {
+        "content": "content---blog-469-71d"
+      },
+      {
+        "content": "content---blogccb-196"
+      },
+      {
+        "content": "content---blogdab-ed8"
+      }
+    ],
+    "metadata": "metadata---blog-tags-holaf-47-fb5"
+  },
+  "/book-390": {
+    "component": "component---site-src-pages-book-jsfa-3-ec2",
+    "config": "config---5-e-9-4f3"
+  },
+  "/business-700": {
+    "component": "component---site-src-pages-business-js-1-e-3-4a6",
+    "config": "config---5-e-9-4f3"
+  },
+  "/carditem-eb2": {
+    "component": "component---site-src-pages-carditem-jsf-75-a54",
+    "config": "config---5-e-9-4f3"
+  },
+  "/cards-729": {
+    "component": "component---site-src-pages-cards-jsdfb-298",
+    "config": "config---5-e-9-4f3"
+  },
+  "/challenges-b14": {
+    "component": "component---site-src-pages-challenges-js-6-a-0-4d3",
+    "config": "config---5-e-9-4f3"
+  },
+  "/heroSection-802": {
+    "component": "component---site-src-pages-hero-section-js-4-c-8-539",
+    "config": "config---5-e-9-4f3"
+  },
+  "/schedule-c3c": {
+    "component": "component---site-src-pages-schedule-js-50-c-12e",
+    "config": "config---5-e-9-4f3"
+  },
+  "/software-48e": {
+    "component": "component---site-src-pages-software-js-086-110",
+    "config": "config---5-e-9-4f3"
+  },
+  "/testpage-d96": {
+    "component": "component---site-src-pages-testpage-js-4-e-7-2fe",
+    "config": "config---5-e-9-4f3"
+  },
+  "/tracks-616": {
+    "component": "component---site-src-pages-tracks-js-3-a-2-960",
+    "config": "config---5-e-9-4f3"
+  },
+  "/video-783": {
+    "component": "component---site-src-pages-video-jsac-5-217",
+    "config": "config---5-e-9-4f3"
+  },
+  "/vidtest-494": {
+    "component": "component---site-src-pages-vidtest-jsf-0-f-c93",
+    "config": "config---5-e-9-4f3"
+  },
+  "/docs-3d3": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docsf-97-b71"
+  },
+  "/docs/-b73": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-736-db7"
+  },
+  "/docs/doc2-7d1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-doc-2991-1ba"
+  },
+  "/docs/doc3-6f8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-doc-3225-2eb"
+  },
+  "/docs/mdx-155": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-mdx-45-a-26c"
+  }
+}

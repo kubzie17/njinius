@@ -1,0 +1,24 @@
+{
+  "permalink": "/blog/hello world",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2020-10-24-hello wold.md",
+  "source": "@site/blog\\2020-10-24-hello wold.md",
+  "description": "From a very young age, it was clear that my mind was one of an inquisitive and naturally curious engineer. What kind of engineer? It was yet to be seen.",
+  "date": "2020-10-24T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "title": "You Had Me at Hello World",
+  "readingTime": 3.465,
+  "truncated": true,
+  "nextItem": {
+    "title": "Its A Brand New World",
+    "permalink": "/blog/its a brand new world"
+  }
+}
