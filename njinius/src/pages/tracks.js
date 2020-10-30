@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import useBaseUrl from '@docusaurus/useBaseUrl'; 
 
 
 function Hello() {
@@ -18,16 +18,31 @@ function Hello() {
         <p>
           Edit <code>pages/tracks.js</code> and save to reload.{"\n"}
           <Link to={useBaseUrl('business/')}>
-              business         
+              business   {"\n"}      
           </Link>
-          <Link to={useBaseUrl('software/')}>
+          
+        </p>
+        
+      </div>
+      <div  style={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          height: '50vh',
+          fontSize: '20px',
+        }}>
+      <p>
+        <Link to={useBaseUrl('software/')}>
               software         
           </Link>
           <Link to={useBaseUrl('book/')}>
               book club         
           </Link>
 
+
         </p>
+
+
       </div>
     </Layout>
   );

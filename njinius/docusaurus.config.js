@@ -37,6 +37,7 @@ module.exports = {
         {to: 'vidtest/', label: 'vidtest', position: 'right'},
         {to: 'challenges/', label: 'Challenges', position: 'right'},
         {to: 'tracks/', label: 'Tracks', position: 'right'},
+        {to: 'testpage/', label: 'Testpage', position: 'right'},
         
 
       ],
