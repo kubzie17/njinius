@@ -60,8 +60,6 @@ return (
 }
 
 function About() {
-    const context = useDocusaurusContext();
-    const {siteConfig = {}} = context;
   return (
     <Layout title="About">
         <header >

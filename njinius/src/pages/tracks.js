@@ -18,16 +18,31 @@ function Hello() {
         <p>
           Edit <code>pages/tracks.js</code> and save to reload.{"\n"}
           <Link to={useBaseUrl('business/')}>
-              business testing branch link        
+              business   {"\n"}      
           </Link>
-          <Link to={useBaseUrl('software/')}>
+          
+        </p>
+        
+      </div>
+      <div  style={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          height: '50vh',
+          fontSize: '20px',
+        }}>
+      <p>
+        <Link to={useBaseUrl('software/')}>
               software         
           </Link>
           <Link to={useBaseUrl('book/')}>
               book club         
           </Link>
 
+
         </p>
+
+
       </div>
     </Layout>
   );
