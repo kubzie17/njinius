@@ -9,9 +9,6 @@ function home() {
         <Layout title={'home'}>
         <HeroSection />
         <Cardies />
-
-
-
         </Layout>
     )
 }
