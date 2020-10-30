@@ -1,12 +1,11 @@
 import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import VideoPlayer from "react-video-js-player";
 import styles from './styles.module.css';
-import Car from "C:/Development/Njinius/njinius/static/video/car.mp4" 
-import Var from "C:/Development/Njinius/njinius/static/video/van.mp4" 
-import bik from "C:/Development/Njinius/njinius/static/video/bike.mp4" 
+import Car from "../../static/video/car.mp4" 
+import Var from "../../static/video/van.mp4" 
+import bik from "../../static/video/bike.mp4" 
 
 
 const features = [
