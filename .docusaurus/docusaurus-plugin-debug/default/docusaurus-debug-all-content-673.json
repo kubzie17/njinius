@@ -8,8 +8,8 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Development\\Njinius\\njinius\\sidebars.js",
-          "docsDirPath": "C:\\Development\\Njinius\\njinius\\docs",
+          "sidebarFilePath": "C:\\Development\\Njinius\\sidebars.js",
+          "docsDirPath": "C:\\Development\\Njinius\\docs",
           "mainDocId": "doc1",
           "sidebars": {
             "someSidebar": [

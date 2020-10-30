@@ -29,9 +29,9 @@
     "component": "component---site-src-pages-about-js-9-a-4-ce1",
     "config": "config---5-e-9-4f3"
   },
-  "/blog-94d": {
+  "/blog-741": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blogc-27-f73",
+    "sidebar": "sidebar---blogeec-60a",
     "items": [
       {
         "content": "content---blog-469-71d"
@@ -45,29 +45,29 @@
     ],
     "metadata": "metadata---blog-5-c-4-506"
   },
-  "/blog/hello world-e74": {
+  "/blog/hello world-346": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blogc-27-f73",
+    "sidebar": "sidebar---blogeec-60a",
     "content": "content---blog-hello-worlddc-8-7ce"
   },
-  "/blog/its a brand new world-5f5": {
+  "/blog/its a brand new world-a15": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blogc-27-f73",
+    "sidebar": "sidebar---blogeec-60a",
     "content": "content---blog-its-a-brand-new-worlde-37-c11"
   },
-  "/blog/new boy in town-8fc": {
+  "/blog/new boy in town-c50": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blogc-27-f73",
+    "sidebar": "sidebar---blogeec-60a",
     "content": "content---blog-new-boy-in-town-230-df8"
   },
-  "/blog/tags-819": {
+  "/blog/tags-2e4": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blogc-27-f73",
+    "sidebar": "sidebar---blogeec-60a",
     "tags": "tags---blog-tags-995-4d3"
   },
-  "/blog/tags/docusaurus-999": {
+  "/blog/tags/docusaurus-a0c": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blogc-27-f73",
+    "sidebar": "sidebar---blogeec-60a",
     "items": [
       {
         "content": "content---blog-469-71d"
@@ -81,9 +81,9 @@
     ],
     "metadata": "metadata---blog-tags-docusaurus-198-378"
   },
-  "/blog/tags/hola-0b6": {
+  "/blog/tags/hola-96c": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blogc-27-f73",
+    "sidebar": "sidebar---blogeec-60a",
     "items": [
       {
         "content": "content---blog-469-71d"

@@ -1,7 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
-import VideoPlayer from "react-video-js-player";
+import VideoPlayer from 'react-video-js-player';
 import styles from './styles.module.css';
 import Car from "../../static/video/car.mp4" 
 import Var from "../../static/video/van.mp4" 
@@ -49,7 +49,8 @@ return (
     <div className={clsx('col col-2', styles.feature,)}>
     {imgUrl && (
         <div className="text--center">
-        <VideoPlayer src={imgUrl} poster={psterUrl} width="360" height="210"/> 
+          
+          <VideoPlayer src={imgUrl} poster={psterUrl} widht="360" height="210"/>
         </div>
     )}
     <h3>{title}</h3>

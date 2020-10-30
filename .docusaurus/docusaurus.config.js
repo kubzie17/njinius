@@ -149,7 +149,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Development\\Njinius\\njinius\\sidebars.js",
+          "sidebarPath": "C:\\Development\\Njinius\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -157,7 +157,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "C:\\Development\\Njinius\\njinius\\src\\css\\custom.css"
+          "customCss": "C:\\Development\\Njinius\\src\\css\\custom.css"
         }
       }
     ]

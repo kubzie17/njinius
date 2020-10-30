@@ -49,37 +49,37 @@ export default [
 },
 {
   path: '/blog',
-  component: ComponentCreator('/blog','94d'),
+  component: ComponentCreator('/blog','741'),
   exact: true,
 },
 {
   path: '/blog/hello world',
-  component: ComponentCreator('/blog/hello world','e74'),
+  component: ComponentCreator('/blog/hello world','346'),
   exact: true,
 },
 {
   path: '/blog/its a brand new world',
-  component: ComponentCreator('/blog/its a brand new world','5f5'),
+  component: ComponentCreator('/blog/its a brand new world','a15'),
   exact: true,
 },
 {
   path: '/blog/new boy in town',
-  component: ComponentCreator('/blog/new boy in town','8fc'),
+  component: ComponentCreator('/blog/new boy in town','c50'),
   exact: true,
 },
 {
   path: '/blog/tags',
-  component: ComponentCreator('/blog/tags','819'),
+  component: ComponentCreator('/blog/tags','2e4'),
   exact: true,
 },
 {
   path: '/blog/tags/docusaurus',
-  component: ComponentCreator('/blog/tags/docusaurus','999'),
+  component: ComponentCreator('/blog/tags/docusaurus','a0c'),
   exact: true,
 },
 {
   path: '/blog/tags/hola',
-  component: ComponentCreator('/blog/tags/hola','0b6'),
+  component: ComponentCreator('/blog/tags/hola','96c'),
   exact: true,
 },
 {
