@@ -8,7 +8,7 @@ module.exports = {
   //customFields.: 'mnn',
 
   onBrokenLinks: 'throw',
-  favicon: 'img/Njinius.svg',
+  favicon: 'img/njinlogo.png',
   
  
   themeConfig: {
@@ -16,7 +16,7 @@ module.exports = {
       //title: 'Njinius',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/Njinius.svg',
+        src: 'img/njiniusone.png',
       },
       items: [
         {

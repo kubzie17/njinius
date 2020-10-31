@@ -12,6 +12,7 @@ import bik from "../../static/video/bike.mp4"
 function Hello() {
   return (
     <Layout title="Hello">
+        
 
             <Container>
             <Card>
@@ -33,8 +34,31 @@ function Hello() {
             <Alert variant="success">This is a button</Alert>
             <Button>Test Button</Button>  
             <Row>
-                <Col>column 1</Col>
-                <Col>column 2</Col>
+                <Col><Card>
+                <Card.Img className={styles.featureImage} src={useBaseUrl('img/Njinius.svg')}/>
+                <Card.Body>
+                    <Card.Title>Card Example</Card.Title>
+                    <Card.Text>This is an example of the bootstrap cards</Card.Text>
+                    <Button variant="primary">read more</Button>
+                    
+                </Card.Body>
+
+            </Card></Col>
+                <Col><Card>
+                <Card.Img className={styles.featureImage} src={useBaseUrl('img/Njinius.svg')}/>
+                <Card.Body>
+                    <Card.Title>Card Example</Card.Title>
+                    <Card.Text>This is an example of the bootstrap cards</Card.Text>
+                    <Button variant="primary">read more</Button>
+                    
+                </Card.Body>
+
+            </Card></Col>
+                <Col>column 3</Col>
+                <Col>column 4</Col>
+                <Col>column 5</Col>
+                <Col>column 6</Col>
+                <Col>column 7</Col>
 
 
 
