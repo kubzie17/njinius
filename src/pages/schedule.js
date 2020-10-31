@@ -1,24 +1,33 @@
-import React from 'react';
 import Layout from '@theme/Layout';
+import React from 'react';
+import HeroScheduleSection from './heroSectionSchedule'
+import {Container, Row, Col} from 'react-bootstrap'
 
-function Hello() {
-  return (
-    <Layout title="Hello">
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          height: '50vh',
-          fontSize: '20px',
-        }}>
-        <p>
-          Edit <code>pages/schedule.js</code> and save to reload.
-          
-        </p>
-      </div>
-    </Layout>
-  );
+
+
+function home() {
+    return (
+        <Layout title={'Schedule'}>
+        <HeroScheduleSection />
+        <Container>
+          <Row>
+                <Col>column 3</Col>
+                <Col>column 4</Col>
+                <Col>column 5</Col>
+                <Col>column 6</Col>
+                <Col>column 7</Col>
+          </Row>
+          <Row>
+                <Col>column 3</Col>
+                <Col>column 4</Col>
+                <Col>column 5</Col>
+                <Col>column 6</Col>
+                <Col>column 7</Col>
+          </Row>
+        </Container>
+
+        </Layout>
+    )
 }
 
-export default Hello;
+export default home;

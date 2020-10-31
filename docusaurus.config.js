@@ -8,7 +8,7 @@ module.exports = {
   //customFields.: 'mnn',
 
   onBrokenLinks: 'throw',
-  favicon: 'img/Njinius.svg',
+  favicon: 'img/njinlogo.png',
   
  
   themeConfig: {
@@ -16,7 +16,7 @@ module.exports = {
       //title: 'Njinius',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/Njinius.svg',
+        src: 'img/njiniusone.png',
       },
       items: [
         {
@@ -35,7 +35,6 @@ module.exports = {
         {to: 'video/', label: 'Video', position: 'right'},
         {to: 'schedule/', label: 'Schedule', position: 'right'},
         {to: 'vidtest/', label: 'vidtest', position: 'right'},
-        {to: 'challenges/', label: 'Challenges', position: 'right'},
         {to: 'tracks/', label: 'Tracks', position: 'right'},
         {to: 'testpage/', label: 'Testpage', position: 'right'},
         
@@ -81,12 +80,10 @@ module.exports = {
                 alt: 'My Site Logo',
                 src: 'img/favicon.ico',
               },
-              label: 'Blog',
+              label: 'Twitter',
               
-              to: 'blog',
+              href: 'https://twitter.com/njinius1',
               position: 'right',
-              alt: 'my image',
-              src: 'img/github.svg',
             },
             {
               label: 'GitHub',
@@ -94,8 +91,12 @@ module.exports = {
               position: 'right',
             },
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'youtube',
+              href: 'https://www.youtube.com/channel/UCmcoHCFEYhuti8aarL3ieUg?view_as=subscriber',
+            },
+            {
+              label: 'Slack',
+              href: 'https://join.slack.com/t/njinius/shared_invite/zt-i2ziak0i-zKOB4soh2tZ1FIqcfD8n~g',
             },
           ],
         },
